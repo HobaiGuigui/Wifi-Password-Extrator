@@ -1,0 +1,12 @@
+Ao extrair todos os dados .xml da rede, Vá para o seu disco local (C:)
+Abra o arquivo em qualquer leitor de texto.
+Obs: Os números de pode alterar.
+**********
+*******
+*****
+***
+**
+*
+Vá para <keyMaterial>BIG.2004.BA</keyMaterial> 
+
+Nota: A senha exemplo é "BI.2004.BA"
