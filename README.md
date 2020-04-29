@@ -1,2 +1,3 @@
-# Wifi-Password-Extrator
- Um script outomático com a funcionalidade de mostrar todos os "Passwords" guardados no  seu computador windows.
+# Wifi-Password-Extractor
+ Um script automático com a funcionalidade de mostrar todos os "Passwords" guardados no  seu computador windows.
+ 
