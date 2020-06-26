@@ -6,7 +6,7 @@ Tudo o que precisa fazer é baixar o repostório, descompactá-lo e executar o a
 Os arquivos de senha será baixada no disco padrão do Windows "C:/"
 
 
-#Me siga ae:
+# Me siga ae:
 
 https://instagram.com/hiobaldine_official
 
