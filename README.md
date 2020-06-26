@@ -3,9 +3,16 @@
 # Uso
 Tudo o que precisa fazer é baixar o repostório, descompactá-lo e executar o arquivo " 	WIFI passwor Extractor.bat" como administrador. 
 # Obs
-Os arquivos de senha será baixada o disco padrão "C:/"
+Os arquivos de senha será baixada no disco padrão do Windows "C:/"
 
-https://github.com/HobaiGuigui/Wifi-Password-Extrator
+
+#Me siga ae:
+
+https://instagram.com/hiobaldine_official
+
+https://facebook.com/Hiobaldine/
+
+https://github.com/HobaiGuigui/
 
 
  
